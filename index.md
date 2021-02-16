@@ -1,3 +1,9 @@
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/testingAccount2021/testing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
