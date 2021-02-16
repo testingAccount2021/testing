@@ -1,3 +1,8 @@
+<style>
+  h1 {color:red;}
+  p {color:blue;}
+</style>
+
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'London')">London</button>
   <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
