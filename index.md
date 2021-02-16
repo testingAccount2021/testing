@@ -1,11 +1,5 @@
-<style>
-  h1 {color:red;}
-  p {color:blue;}
-</style>
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+#{.tabset}
+
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'London')">London</button>
   <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
