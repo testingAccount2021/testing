@@ -1,2 +1,10 @@
 theme: jekyll-theme-slate 
-title: soen 357
+title:  App
+author: Name last name, name Lasname 
+
+navbar-links:
+  About Me: "Research"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
