@@ -3,5 +3,4 @@ email: your-email@domain.com
 
 # Build settings
 theme: jekyll-theme-slate 
-plugins:
-  - jekyll-feed
+markdown: rmarkdown
