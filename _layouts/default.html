@@ -27,7 +27,6 @@
           {% endif %}         
         </header>
         <style>
-            /* Style the tab */
             .tab {
                 position: sticky;
                 top: 0;
@@ -35,22 +34,6 @@
                 border: 1px solid #ccc;
                 background-color: #f1f1f1;
             }
-
-            /* Style the buttons that are used to open the tab content */
-            .tab button {
-                background-color: inherit;
-                float: left;
-                border: none;
-                outline: none;
-                cursor: pointer;
-                padding: 14px 16px;
-                transition: 0.3s;
-            }
-
-            /* Change background color of buttons on hover */
-            .tab button:hover {
-                background-color: #ddd;
-            }  
 
             .tablinks {
                 text-decoration: none;
@@ -61,6 +44,7 @@
                 cursor: pointer;
                 padding: 14px 16px;
                 transition: 0.3s;
+                color: black;
             }
 
             .tab a:hover{
@@ -71,9 +55,9 @@
 
         <div class="tab">
             <a class="tablinks" href="#understanding">Understanding the Problem</a>
-            <button class="tablinks"><a href="#research" >Research</a></button>
-            <button class="tablinks"><a href="#dataAnalysis" >Data Analysis</a></button>
-            <button class="tablinks"><a href="#personas" >User Personas</a></button>
+            <a class="tablinks" href="#research">Research</a>
+            <a class="tablinks" href="#dataAnalysis" >Data Analysis</a>
+            <a class="tablinks" href="#personas">User Personas</a>
         </div>       
     </div>
 
