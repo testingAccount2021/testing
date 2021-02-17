@@ -52,13 +52,20 @@
                 background-color: #ddd;
             }  
 
-            a {
+            .tablinks {
                 text-decoration: none;
+                background-color: inherit;
+                float: left;
+                border: none;
+                outline: none;
+                cursor: pointer;
+                padding: 14px 16px;
+                transition: 0.3s;
             }
         </style>
 
         <div class="tab">
-            <button class="tablinks"><a href="#understanding" >Understanding the Problem</a></button>
+            <a class="tablinks" href="#understanding">Understanding the Problem</a>
             <button class="tablinks"><a href="#research" >Research</a></button>
             <button class="tablinks"><a href="#dataAnalysis" >Data Analysis</a></button>
             <button class="tablinks"><a href="#personas" >User Personas</a></button>
