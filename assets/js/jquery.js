@@ -1,4 +1,3 @@
-  
 $(document).ready(function(){
   $('#myCarousel').carousel();
 	$('#superApp').carousel();
