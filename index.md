@@ -1,3 +1,4 @@
+ <h3>Demographic Info</h3>
  <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -30,6 +31,65 @@
   </a>
 </div>
 
+ <h3>Super App</h3>
+ <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="img/survey/4.png" alt="Los Angeles">
+    </div>
+    <div class="item">
+      <img src="img/survey/5.png" alt="Chicago">
+    </div>
+    <div class="item">
+      <img src="img/survey/6.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/7.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/8.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/9.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/10.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/11.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/12.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/13.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/14.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/15.png" alt="New York">
+    </div> 
+  </div>
+
+  <!-- Left and right controls -->
+  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 <h2 id= "understanding"> Understanding the problem</h2>
 
