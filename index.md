@@ -91,6 +91,50 @@
   </a>
 </div>
 
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="img/survey/16.png" alt="Los Angeles">
+    </div>
+    <div class="item">
+      <img src="img/survey/17.png" alt="Chicago">
+    </div>
+    <div class="item">
+      <img src="img/survey/18.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/19.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/20.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/21.png" alt="New York">
+    </div>
+    <div class="item">
+      <img src="img/survey/22ng" alt="New York">
+ </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 <h2 id= "understanding"> Understanding the problem</h2>
 
 <h2 id= "research"> Research</h2>
