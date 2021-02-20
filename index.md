@@ -1,9 +1,4 @@
-<script>
-$(document).ready(function(){
-$('#myCarousel1').carousel();
-$('#superApp').carousel();
-$('#auperApp2').carousel();
-});
+
 </script>
  <h3>Demographic Info</h3>
  <div id="myCarousel1" class="carousel slide" data-ride="carousel">
@@ -131,7 +126,7 @@ $('#auperApp2').carousel();
       <img src="img/survey/21.png">
     </div>
     <div class="item">
-      <img src="img/survey/22ng">
+      <img src="img/survey/22.png">
  </div>
   </div>
 
