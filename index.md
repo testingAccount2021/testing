@@ -81,11 +81,11 @@
   </div>
 
   <!-- Left and right controls -->
-  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel" data-slide="prev">
+  <a style="color:black;background:transparent;" class="left carousel-control" href="#superApp" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
+  <a style="color:black;background:transparent;" class="right carousel-control" href="#superApp" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -97,43 +97,43 @@
     <li data-target="#superApp2" data-slide-to="0" class="active"></li>
     <li data-target="#superApp2" data-slide-to="1"></li>
     <li data-target="#superApp2" data-slide-to="2"></li>
-   <li data-target="#superApp2" data-slide-to="2"></li>
-   <li data-target="#superApp2" data-slide-to="2"></li>
-   <li data-target="#superApp2" data-slide-to="2"></li>
-   <li data-target="#superApp2" data-slide-to="2"></li>
+   <li data-target="#superApp2" data-slide-to="3"></li>
+   <li data-target="#superApp2" data-slide-to="4"></li>
+   <li data-target="#superApp2" data-slide-to="5"></li>
+   <li data-target="#superApp2" data-slide-to="6"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="img/survey/16.png" alt="Los Angeles">
+      <img src="img/survey/16.png">
     </div>
     <div class="item">
-      <img src="img/survey/17.png" alt="Chicago">
+      <img src="img/survey/17.png">
     </div>
     <div class="item">
-      <img src="img/survey/18.png" alt="New York">
+      <img src="img/survey/18.png">
     </div>
     <div class="item">
-      <img src="img/survey/19.png" alt="New York">
+      <img src="img/survey/19.png">
     </div>
     <div class="item">
-      <img src="img/survey/20.png" alt="New York">
+      <img src="img/survey/20.png">
     </div>
     <div class="item">
-      <img src="img/survey/21.png" alt="New York">
+      <img src="img/survey/21.png">
     </div>
     <div class="item">
-      <img src="img/survey/22ng" alt="New York">
+      <img src="img/survey/22ng">
  </div>
   </div>
 
   <!-- Left and right controls -->
-  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel" data-slide="prev">
+  <a style="color:black;background:transparent;" class="left carousel-control" href="#superApp2" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
+  <a style="color:black;background:transparent;" class="right carousel-control" href="#superApp2" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
