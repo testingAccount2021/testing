@@ -1,4 +1,5 @@
- 
+<h2>Final Desgin</h2>
+![Final Design](img/finalDesign.gif)
 
 <h2 id= "understanding"> Understanding the problem</h2>
 
