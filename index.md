@@ -9,15 +9,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="la.jpg" alt="Los Angeles">
+      <img src="img/survey/1.png" alt="Los Angeles">
     </div>
-
     <div class="item">
-      <img src="chicago.jpg" alt="Chicago">
+      <img src="img/survey/2.png" alt="Chicago">
     </div>
-
     <div class="item">
-      <img src="ny.jpg" alt="New York">
+      <img src="img/survey/3.png" alt="New York">
     </div>
   </div>
 
