@@ -10,13 +10,13 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="img/survey/1.png" alt="Los Angeles">
+      <img src="img/survey/1.png">
     </div>
     <div class="item">
-      <img src="img/survey/2.png" alt="Chicago">
+      <img src="img/survey/2.png">
     </div>
     <div class="item">
-      <img src="img/survey/3.png" alt="New York">
+      <img src="img/survey/3.png">
     </div>
   </div>
 
@@ -43,40 +43,40 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="img/survey/4.png" alt="Los Angeles">
+      <img src="img/survey/4.png">
     </div>
     <div class="item">
-      <img src="img/survey/5.png" alt="Chicago">
+      <img src="img/survey/5.png">
     </div>
     <div class="item">
-      <img src="img/survey/6.png" alt="New York">
+      <img src="img/survey/6.png">
     </div>
     <div class="item">
-      <img src="img/survey/7.png" alt="New York">
+      <img src="img/survey/7.png">
     </div>
     <div class="item">
-      <img src="img/survey/8.png" alt="New York">
+      <img src="img/survey/8.png">
     </div>
     <div class="item">
-      <img src="img/survey/9.png" alt="New York">
+      <img src="img/survey/9.png">
     </div>
     <div class="item">
-      <img src="img/survey/10.png" alt="New York">
+      <img src="img/survey/10.png">
     </div>
     <div class="item">
-      <img src="img/survey/11.png" alt="New York">
+      <img src="img/survey/11.png">
     </div>
     <div class="item">
-      <img src="img/survey/12.png" alt="New York">
+      <img src="img/survey/12.png">
     </div>
     <div class="item">
-      <img src="img/survey/13.png" alt="New York">
+      <img src="img/survey/13.png">
     </div>
     <div class="item">
-      <img src="img/survey/14.png" alt="New York">
+      <img src="img/survey/14.png">
     </div>
     <div class="item">
-      <img src="img/survey/15.png" alt="New York">
+      <img src="img/survey/15.png">
     </div> 
   </div>
 
