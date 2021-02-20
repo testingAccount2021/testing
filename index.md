@@ -24,7 +24,7 @@
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a style="color:clack;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
+  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
