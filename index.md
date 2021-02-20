@@ -1,4 +1,41 @@
- <h3>Demographic Info</h3>
+ 
+
+<h2 id= "understanding"> Understanding the problem</h2>
+
+<h2 id= "research"> Research</h2>
+
+<h2 id= "dataAnalysis"> Data Analysis</h2>
+
+<h2 id= "personas"> User Personas</h2>
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+
+## Header 2
+
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+<h3>Demographic Info</h3>
  <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -147,40 +184,6 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<h2 id= "understanding"> Understanding the problem</h2>
-
-<h2 id= "research"> Research</h2>
-
-<h2 id= "dataAnalysis"> Data Analysis</h2>
-
-<h2 id= "personas"> User Personas</h2>
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
