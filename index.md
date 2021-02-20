@@ -1,10 +1,17 @@
+<script>
+$(document).ready(function(){
+$('#myCarousel1').carousel();
+$('#superApp').carousel();
+$('#auperApp2').carousel();
+});
+</script>
  <h3>Demographic Info</h3>
- <div id="myCarousel" class="carousel slide" data-ride="carousel">
+ <div id="myCarousel1" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel1" data-slide-to="1"></li>
+    <li data-target="#myCarousel1" data-slide-to="2"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -21,18 +28,18 @@
   </div>
 
   <!-- Left and right controls -->
-  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel" data-slide="prev">
+  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel1" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
+  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel1" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
 
  <h3>Super App</h3>
- <div id="myCarousel" class="carousel slide" data-ride="carousel">
+ <div id="superApp" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#superApp" data-slide-to="0" class="active"></li>
@@ -91,7 +98,7 @@
   </a>
 </div>
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="superApp2" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#superApp2" data-slide-to="0" class="active"></li>
