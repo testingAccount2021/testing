@@ -20,11 +20,11 @@
   </div>
 
   <!-- Left and right controls -->
-  <a style="color:blue;background-color:transparent;" class="left carousel-control" href="#myCarousel" data-slide="prev">
+  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a style="color:blue;background-color:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
+  <a style="color:clack;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
