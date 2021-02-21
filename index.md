@@ -1,3 +1,15 @@
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Popup image</button>
+
+<div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+        <div class="modal-body">
+            <img src="img/survey/1.png" class="img-responsive">
+        </div>
+    </div>
+  </div>
+</div>
+
 <div class="container">
   <h2>Dynamic Tabs with jQuery</h2>
   <p>Click on the Tabs to display the active and previous tab.</p>
